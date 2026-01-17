@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Media files
+audios/
+*.mp3
+*.webm
+
+# Embeddings / models
+*.joblib
+
+# FFmpeg
+ffmpeg-master-latest-win64-gpl-shared/
+
+# OS files
+.DS_Store

@@ -1,0 +1,6 @@
+i am teaching web development using sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"numbers":"7","title":"sample.mp3","start":0.0,"end":6.56,"text":" Guys in today's video, I will give you an exercise and whoever solves this exercise, I will give them a shoutout."},{"numbers":"7","title":"sample.mp3","start":6.56,"end":9.76,"text":" So write in the comment section, Challenge accepted."},{"numbers":"7","title":"sample.mp3","start":9.76,"end":11.76,"text":" If you have any doubts, then write in the comment section."}]
+----------------------------------
+"give me an exercise"
+User asked this question related to the video chunks, you have to answer in a human way(dont answer the above format,it is just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course.
